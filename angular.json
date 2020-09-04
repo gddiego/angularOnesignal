@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "compromissos"
+    }
+  },
+  "defaultProject": "compromissos",
+  "cli": {
+    "analytics": "857f7e00-4970-43cb-8c19-1abdbad1b182"
+  }
 }
